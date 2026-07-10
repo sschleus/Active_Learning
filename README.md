@@ -12,5 +12,5 @@ it exceeds GitHub's regular file-size limit.
    data/init_datasets/spw_osm_training_set.parquet
    
   ## Code execution
-  All the execution is in the jupyter notebook userboard.ipynb
+  All the execution is in the jupyter notebook userboard.ipynb.
   For any problem, please contact shan.schleusner@ulb.be
